@@ -109,3 +109,4 @@ Unless otherwise stated, repositories are licensed under their respective licens
 ---
 
 © 2026 FlickBox Technologies. All rights reserved.
+<a href="">Privacy Policy</a>
