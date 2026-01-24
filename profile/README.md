@@ -108,5 +108,5 @@ Unless otherwise stated, repositories are licensed under their respective licens
 
 ---
 
-© 2026 FlickBox Technologies. All rights reserved.
-<a href="">Privacy Policy</a>
+© 2026 FlickBox Technologies. All rights reserved. </br>
+<a href="https://www.flickbox.lk/privacy-policy">Privacy Policy</a> • <a href="https://www.flickbox.lk/terms-of-service">Terms of Service</a>
