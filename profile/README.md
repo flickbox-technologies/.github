@@ -1,48 +1,111 @@
-# Welcome to FlickBox Technologies 👋
+# 🚀 FlickBox Technologies
 
-> **Transforming Ideas Into Reality.**
+**Transforming Ideas into Reality**
 
-We are a Sri Lanka-based software development agency specializing in high-performance mobile and web solutions. We transform complex ideas into elegant digital realities that empower businesses to scale and innovate.
+Welcome to the official GitHub organization of **FlickBox Technologies** — a creative software development agency based in Sri Lanka, delivering high-performance, scalable digital solutions for startups and enterprises worldwide.
 
----
-
-## 🚀 About Us
-
-FlickBox Technologies is a team of passionate developers, designers, and strategists. We believe in writing clean code, building scalable architectures, and delivering user-centric products.
-
-- 📍 **Headquarters:** Kamburupitiya, Sri Lanka
-- 💼 **Type:** Sole Proprietorship
-- 📜 **Registration:** 260101001
+🌐 Website: https://www.flickbox.lk  
+📧 Email: flickboxhq@gmail.com  
 
 ---
 
-## 🛠 Services
+## 🏢 About Us
 
-We provide end-to-end development services tailored to your business needs:
+FlickBox Technologies specializes in bridging the gap between ambitious ideas and technical execution. We provide **end-to-end software development services**, from discovery and UI/UX design to deployment and long-term maintenance.
 
-- **Mobile App Development:** Native performance with Flutter.
-- **Web Development:** Modern, responsive web apps using React.js and Vue.js.
-- **Backend Engineering:** Robust APIs and microservices with Laravel and Node.js.
-- **Database Management:** Scalable data solutions using MongoDB and SQL.
-- **Cloud & DevOps:** Secure deployment and scaling on AWS, Azure, and Firebase.
+We believe great software is built through **research, creativity, and clean architecture**.
 
----
-
-## 📫 Contact Us
-
-Have a project in mind? Let's talk!
-
-- **Email:** [flickboxhq@gmail.com](mailto:flickboxhq@gmail.com)
-- **WhatsApp:** [+94 71 176 0916](https://wa.me/94711760916)
-- **Website:** [www.flickbox.lk](https://www.flickbox.lk)
+**Legal Structure:** Sole Proprietorship  
+**Registration No:** 260101001  
 
 ---
 
-## ⚖️ Legal
+## 🎯 Our Vision
 
-We value transparency and security.
+To become the **premier technology partner for visionaries worldwide**, defining the future of digital interaction through innovation, precision, and excellence.
 
-- **Privacy Policy:** [Read our Privacy Policy](https://www.flickbox.lk/privacy-policy)
-- **Terms of Service:** [Read our Terms of Service](https://www.flickbox.lk/terms-of-service)
+---
 
-> _© 2026 FlickBox Technologies. All Rights Reserved._
+## 🧭 Our Mission
+
+We exist to transform complex ideas into **elegant, user-centric realities**.  
+Through deep research and boundless creativity, we deliver scalable software solutions that solve real-world business challenges.
+
+---
+
+## 💎 Our Core Values
+
+- 🎨 **Creativity** – We imagine what others don’t  
+- 🔍 **Research** – Every decision is backed by analysis and insight  
+- 🚀 **Innovation** – Leveraging modern tech stacks to stay ahead  
+- 🔎 **Transparency** – Clear communication at every stage  
+- 🧱 **Quality** – Clean, scalable, maintainable code  
+- ⚡ **Agility** – Fast, adaptive, and efficient delivery  
+
+---
+
+## 🛠️ What We Do
+
+### 📱 Mobile App Development
+High-performance, native-feel mobile applications with seamless user experiences.
+
+### 🌐 Web Development
+Secure, scalable, and responsive web applications tailored to business needs.
+
+### 🎨 UI / UX Design
+User-centric designs, wireframes, and prototypes focused on engagement and usability.
+
+### ⚙️ Custom Software Solutions
+Tailor-made systems and automation tools designed for unique workflows.
+
+---
+
+## 🔄 Our 4D Development Process
+
+1. **Discovery** – Understanding your vision and business goals  
+2. **Design** – UI/UX wireframes and visual architecture  
+3. **Development** – Clean, scalable engineering  
+4. **Deploy** – Testing, launch, and production support  
+
+---
+
+## 👤 Founder
+
+**Pubudu Ishan Wickrama Arachchi**  
+Founder & Software Engineer  
+B.ICT (Honors), University of Colombo  
+
+Founded FlickBox Technologies on **December 25, 2025**, with a mission to deliver elegant digital solutions for complex business challenges.
+
+---
+
+## 📂 About This Organization
+
+This GitHub organization hosts:
+
+- Client projects (private & public)
+- Internal tools and automation
+- Open-source utilities
+- Proof-of-concept repositories
+- Engineering standards and documentation
+
+---
+
+## 🤝 Contributing
+
+We welcome:
+- Bug reports
+- Feature suggestions
+- Open-source contributions
+
+Please follow repository-specific contribution guidelines.
+
+---
+
+## 📜 License
+
+Unless otherwise stated, repositories are licensed under their respective licenses.
+
+---
+
+© 2026 FlickBox Technologies. All rights reserved.
