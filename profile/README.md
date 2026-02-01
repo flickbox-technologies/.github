@@ -15,9 +15,6 @@ FlickBox Technologies specializes in bridging the gap between ambitious ideas an
 
 We believe great software is built through **research, creativity, and clean architecture**.
 
-**Legal Structure:** Sole Proprietorship  
-**Registration No:** 260101001  
-
 ---
 
 ## 🎯 Our Vision
@@ -74,8 +71,6 @@ Tailor-made systems and automation tools designed for unique workflows.
 **Pubudu Ishan Wickrama Arachchi**  
 Founder & Software Engineer  
 B.ICT (Honors), University of Colombo  
-
-Founded FlickBox Technologies on **December 25, 2025**, with a mission to deliver elegant digital solutions for complex business challenges.
 
 ---
 
