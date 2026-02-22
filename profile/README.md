@@ -1,68 +1,63 @@
 # 🚀 FlickBox Technologies
 
-**Transforming Ideas into Reality**
+**Engineering Digital Systems for Modern Businesses**
 
-Welcome to the official GitHub organization of **FlickBox Technologies** — a creative software development agency based in Sri Lanka, delivering high-performance, scalable digital solutions for startups and enterprises worldwide.
+Welcome to the official GitHub organization of **FlickBox Technologies** — a Sri Lanka–based software engineering studio building scalable web platforms, mobile applications, and business automation systems.
 
 🌐 Website: https://www.flickbox.lk  
 📧 Email: flickboxhq@gmail.com  
 
 ---
 
-## 🏢 About Us
+## 🏢 About FlickBox
 
-FlickBox Technologies specializes in bridging the gap between ambitious ideas and technical execution. We provide **end-to-end software development services**, from discovery and UI/UX design to deployment and long-term maintenance.
+FlickBox Technologies focuses on delivering reliable, scalable, and maintainable software solutions.
 
-We believe great software is built through **research, creativity, and clean architecture**.
+We combine strong engineering principles with practical business understanding to build systems that are not only functional — but sustainable and growth-ready.
 
----
+### Core Expertise
 
-## 🎯 Our Vision
+- Full-stack web application development  
+- Cross-platform mobile app engineering  
+- Custom ERP & business automation systems  
+- Cloud deployment & infrastructure setup  
 
-To become the **premier technology partner for visionaries worldwide**, defining the future of digital interaction through innovation, precision, and excellence.
-
----
-
-## 🧭 Our Mission
-
-We exist to transform complex ideas into **elegant, user-centric realities**.  
-Through deep research and boundless creativity, we deliver scalable software solutions that solve real-world business challenges.
+We believe great software is built with clarity, clean architecture, and long-term thinking.
 
 ---
 
-## 💎 Our Core Values
+## 🛠 Engineering Approach
 
-- 🎨 **Creativity** – We imagine what others don’t  
-- 🔍 **Research** – Every decision is backed by analysis and insight  
-- 🚀 **Innovation** – Leveraging modern tech stacks to stay ahead  
-- 🔎 **Transparency** – Clear communication at every stage  
-- 🧱 **Quality** – Clean, scalable, maintainable code  
-- ⚡ **Agility** – Fast, adaptive, and efficient delivery  
+We follow a structured development lifecycle:
 
----
+1. **Discovery** – Requirement analysis & system planning  
+2. **Architecture** – Scalable system design  
+3. **Development** – Clean, modular, and maintainable code  
+4. **Testing & Deployment** – Quality assurance & production readiness  
+5. **Support & Iteration** – Continuous improvement  
 
-## 🛠️ What We Do
+We prioritize:
 
-### 📱 Mobile App Development
-High-performance, native-feel mobile applications with seamless user experiences.
-
-### 🌐 Web Development
-Secure, scalable, and responsive web applications tailored to business needs.
-
-### 🎨 UI / UX Design
-User-centric designs, wireframes, and prototypes focused on engagement and usability.
-
-### ⚙️ Custom Software Solutions
-Tailor-made systems and automation tools designed for unique workflows.
+- Code quality  
+- Security best practices  
+- Scalable database design  
+- CI/CD workflows  
+- Documentation & maintainability  
 
 ---
 
-## 🔄 Our 4D Development Process
+## 📂 About This Organization
 
-1. **Discovery** – Understanding your vision and business goals  
-2. **Design** – UI/UX wireframes and visual architecture  
-3. **Development** – Clean, scalable engineering  
-4. **Deploy** – Testing, launch, and production support  
+This organization hosts:
+
+- Client repositories (private)  
+- Internal tools & automation systems  
+- Proof-of-concept projects  
+- Experimental builds  
+- Engineering templates & standards  
+- Open-source utilities  
+
+Some repositories may be private due to client confidentiality.
 
 ---
 
@@ -70,38 +65,31 @@ Tailor-made systems and automation tools designed for unique workflows.
 
 **Pubudu Ishan Wickrama Arachchi**  
 Founder & Software Engineer  
-B.ICT (Honors), University of Colombo  
+B.ICT (Honours), University of Colombo  
+
+Focused on building scalable digital infrastructure for growing businesses.
 
 ---
 
-## 📂 About This Organization
+## 🤝 Contributions
 
-This GitHub organization hosts:
+For public repositories:
 
-- Client projects (private & public)
-- Internal tools and automation
-- Open-source utilities
-- Proof-of-concept repositories
-- Engineering standards and documentation
-
----
-
-## 🤝 Contributing
-
-We welcome:
-- Bug reports
-- Feature suggestions
-- Open-source contributions
+- Bug reports  
+- Feature suggestions  
+- Pull requests  
 
 Please follow repository-specific contribution guidelines.
 
 ---
 
-## 📜 License
+## 📜 Licensing
 
-Unless otherwise stated, repositories are licensed under their respective licenses.
+Each repository specifies its own license.  
+Please review individual project licenses before reuse or distribution.
 
 ---
 
-© 2026 FlickBox Technologies. All rights reserved. </br>
-<a href="https://www.flickbox.lk/privacy-policy">Privacy Policy</a> • <a href="https://www.flickbox.lk/terms-of-service">Terms of Service</a>
+© 2026 FlickBox Technologies  
+Privacy Policy: https://www.flickbox.lk/privacy-policy  
+Terms of Service: https://www.flickbox.lk/terms-of-service  
